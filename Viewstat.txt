@@ -1,0 +1,9 @@
+AssessmentType,MoodleLink,Intake,Date,Marked
+FYP,moolink2,APD2F2402DA,30/5/2024
+CP1,moolink3,APD2F2402CS,25/5/2024
+CP2,moolink4,APD2F2402FE,21/5/2024
+Internship,moolink5,APD2F2402CB,20/5/2024
+Investigation Report,moolink6,APD2F2402GL,18/5/2024
+4,C:\Users\Jaedon Yip\Desktop\lorep.txt,4,4
+4,C:\Users\Jaedon Yip\Desktop\lorep.txt,4,4
+report,C:\Users\Jaedon Yip\Desktop\lorep.txt,apd33,3-3-24

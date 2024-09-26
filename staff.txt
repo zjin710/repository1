@@ -1,0 +1,13 @@
+LT001231,Alvin,Alvin123,lt001231@mail.agh.edu.my,0168895672,Computing,Lecturer
+LT002861,Melvin,Melvin123,lt002861@mail.agh.edu.my,0196397373,Accounting,Lecturer
+LT003456,Sophia,Sophia321,lt003456@mail.agh.edu.my,0177891234,Media,Lecturer
+LT004789,James,James321,lt004789@mail.agh.edu.my,0189981122,Engineering,Lecturer
+LT007890,Olivia,Olivia123,lt007890@mail.agh.edu.my,0176655443,Business,Lecturer
+LT008765,Nathan,Nathan123,lt008765@mail.agh.edu.my,0199988776,Computing,Lecturer
+PM009876,Emily,Emily123,pm009876@mail.agh.edu.my,0167891234,Engineering,Project Manager
+PM005432,Michael,Michael123,pm005432@mail.agh.edu.my,0176543210,Business,Project Manager
+AM001001,Swee Zhi Jin,admin123,am001001@mail.agh.edu.my,01133747628,-,Admin
+AM124710,Lin,lin123,am124710@mail.agh.edu.my,0184628581,-,Admin
+AM124520,Bing Chi Lin,bingchillin,am124520@mail.agh.edu.my,0122230124,-,Admin
+AM001007,James Bond,Bond007,am001007@mail.agh.edu.my,0193842843,-,Admin
+AM012345,Admin Testing,testing,am012345@mail.agh.edu.my,0123456789,-,Admin

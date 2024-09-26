@@ -1,0 +1,33 @@
+AM001001,Swee Zhi Jin,admin123,Admin
+AM124710,Lin,lin123,Admin
+LT001231,Alvin,Alvin123,Lecturer
+LT002861,Melvin,Melvin123,Lecturer
+LT003456,Sophia,Sophia321,Lecturer
+LT004789,James,James321,Lecturer
+LT007890,Olivia,Olivia123,Lecturer
+LT008765,Nathan,Nathan123,Lecturer
+PM009876,Emily,Emily123,Project Manager
+PM005432,Michael,Michael123,Project Manager
+ST073520,Tan Hou Jin,houjin123,Student
+ST073123,Jaedon Yip,jaedon123,Student
+ST073379,Swee Zhi Jin,jin123,Student
+ST007007,James Bond,Bond007,Student
+ST073450,Victor Tan,victor123,Student
+ST073521,Anna Lee,anna789,Student
+ST073522,John Doe,johndoe123,Student
+ST073523,Emily Wong,emily2023,Student
+ST073534,Chris Wong,chris987,Student
+ST073535,Alice Tan,alice2023,Student
+ST073536,Tommy Chan,tommy567,Student
+ST073537,Mary Ho,mary789,Student
+AM124520,Bing Chi Lin,bingchillin,Admin
+AM012345,Admin Testing,testing,Admin
+ST073524,David Lim,david2024,Student
+ST073525,Jessica Tan,jessica321,Student
+ST073526,Brian Lee,brian987,Student
+ST073527,Linda Wong,linda2023,Student
+ST073528,Peter Chan,peter567,Student
+ST073529,Nancy Ho,nancy789,Student
+ST073530,Kevin Ng,kevin123,Student
+ST073531,Laura Lim,laura2023,Student
+ST012345,Testing,testing,Student
