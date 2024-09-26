@@ -10,6 +10,7 @@ This repository contains the complete code for our group assignment, developed c
 ## Overview
 
 The codebase is structured to reflect the contributions of each team member, with individual folders designated for each role stored in the `src` directory of the master page.
+Text files used by all roles are saved in the `txtfiles` directory of the master page.
 
 ### My Contribution
 
