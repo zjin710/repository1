@@ -9,6 +9,8 @@ This repository contains the complete code for our group assignment, developed c
 
 ## Overview
 
+The system is to simulate a university system, particularly in student intake management, assignment creation, assignation, submission, and grading, etc, including extra features such as login, update profile, and so on.
+
 The codebase is structured to reflect the contributions of each team member, with individual folders designated for each role stored in the `src` directory of the master page.
 Text files used by all roles are saved in the `txtfiles` directory of the master page.
 
